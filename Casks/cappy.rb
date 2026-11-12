@@ -1,6 +1,6 @@
 cask "cappy" do
-  version "0.0.3"
-  sha256 "31c78e215ec48aee123670fc6c39d190683efcd4c29656be05a06b5cacde6abe"
+  version "0.0.4"
+  sha256 "4ec7093f2abb91aab53311bba5ff0cbecd95402cd8d792951d640e0abfb4d6ed"
 
   url "https://github.com/frostming/cappy/releases/download/v#{version}/Cappy.app.zip"
   name "Cappy"
