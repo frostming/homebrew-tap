@@ -13,7 +13,7 @@ cask "xup" do
   end
 
   depends_on arch: :arm64
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Xup.app"
   binary "#{appdir}/Xup.app/Contents/Helpers/xup"
